@@ -230,8 +230,14 @@
     (path "/1bdbca77-9b4c-4276-acad-7a9e1b8d2399/2e9d0195-22e7-4583-a73c-136f46a1f380"
       (reference "#PWR068") (unit 1) (value "GND") (footprint "")
     )
+    (path "/1bdbca77-9b4c-4276-acad-7a9e1b8d2399/b5bc6351-d0f7-423a-84d9-be1de1b9a10f"
+      (reference "#PWR069") (unit 1) (value "+3.3V") (footprint "")
+    )
     (path "/1bdbca77-9b4c-4276-acad-7a9e1b8d2399/7b032d16-0ed5-44e4-8750-0853615b4050"
       (reference "#PWR070") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/1bdbca77-9b4c-4276-acad-7a9e1b8d2399/cc8421cf-62a4-41d0-bf88-471d04b5d602"
+      (reference "#PWR071") (unit 1) (value "+3.3V") (footprint "")
     )
     (path "/1bdbca77-9b4c-4276-acad-7a9e1b8d2399/7c5e837e-e42f-43eb-a9c0-0184c593f5f6"
       (reference "#PWR0102") (unit 1) (value "+3.3V") (footprint "")
@@ -244,12 +250,6 @@
     )
     (path "/1bdbca77-9b4c-4276-acad-7a9e1b8d2399/5931f6e7-6e44-4721-a1ba-01973351b1e2"
       (reference "#PWR0105") (unit 1) (value "GND") (footprint "")
-    )
-    (path "/1bdbca77-9b4c-4276-acad-7a9e1b8d2399/bf11a845-ec3f-4b0e-a6c2-accef2e25fc7"
-      (reference "#PWR0106") (unit 1) (value "GND") (footprint "")
-    )
-    (path "/1bdbca77-9b4c-4276-acad-7a9e1b8d2399/54dfa304-19d8-43b2-967a-0eb534ce3a07"
-      (reference "#PWR0110") (unit 1) (value "GND") (footprint "")
     )
     (path "/1bdbca77-9b4c-4276-acad-7a9e1b8d2399/9001eee8-6e66-4f58-944e-f2b64643bd3f"
       (reference "#PWR0112") (unit 1) (value "GND") (footprint "")
@@ -490,12 +490,6 @@
     )
     (path "/1bdbca77-9b4c-4276-acad-7a9e1b8d2399/193ad6a8-4d62-4b0e-98e0-bd6d819856d2"
       (reference "R36") (unit 1) (value "10K") (footprint "Resistor_SMD:R_0805_2012Metric")
-    )
-    (path "/1bdbca77-9b4c-4276-acad-7a9e1b8d2399/1665119e-4bb4-4c25-9a43-a3b774cf0ccd"
-      (reference "R37") (unit 1) (value "10K") (footprint "Resistor_SMD:R_0402_1005Metric")
-    )
-    (path "/1bdbca77-9b4c-4276-acad-7a9e1b8d2399/311f4791-5404-4491-be64-d067090b4754"
-      (reference "R38") (unit 1) (value "10K") (footprint "Resistor_SMD:R_0402_1005Metric")
     )
     (path "/1bdbca77-9b4c-4276-acad-7a9e1b8d2399/031ddfb7-3cfa-4eee-9744-d19481e9ebc3"
       (reference "R39") (unit 1) (value "10K") (footprint "Resistor_SMD:R_0402_1005Metric")
